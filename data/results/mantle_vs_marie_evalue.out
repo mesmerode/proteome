@@ -1,0 +1,68 @@
+# BLASTP 2.7.1+
+# Query: sp|P86727.1|QRP_HALAI RecName: Full=Glutamine-rich protein
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86730.1|PWAP_HALAI RecName: Full=Perlwapin; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86729.1|EPDR2_HALAI RecName: Full=Ependymin-related protein 2; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# Fields: query acc., subject acc., evalue, q. start, q. end, s. start, s. end
+# 1 hits found
+sp|P86729.1|EPDR2_HALAI	TRINITY_DN164058_c0_g4_i1_4	1.21e-06	73	200	70	186
+# BLASTP 2.7.1+
+# Query: sp|P86734.1|EPDR1_HALAI RecName: Full=Ependymin-related protein 1; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86738.1|UP4_HALAI RecName: Full=Uncharacterized protein 4; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86737.1|UP3_HALAI RecName: Full=Uncharacterized protein 3; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86726.1|UP7_HALAI RecName: Full=Uncharacterized protein 7; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86733.1|KCP_HALAI RecName: Full=BPTI/Kunitz domain-containing protein
+# Database: 95.2.50.mantle.protein.fasta
+# Fields: query acc., subject acc., evalue, q. start, q. end, s. start, s. end
+# 6 hits found
+sp|P86733.1|KCP_HALAI	TRINITY_DN159470_c1_g1_i3_4	4.89e-29	12	120	182	306
+sp|P86733.1|KCP_HALAI	TRINITY_DN159470_c1_g1_i3_4	4.24e-24	13	122	27	154
+sp|P86733.1|KCP_HALAI	TRINITY_DN159470_c1_g1_i3_4	1.52e-22	3	125	91	239
+sp|P86733.1|KCP_HALAI	TRINITY_DN159470_c1_g1_i3_4	1.56e-14	6	65	248	307
+sp|P86733.1|KCP_HALAI	TRINITY_DN154220_c0_g1_i2_5	1.80e-12	5	68	1	67
+sp|P86733.1|KCP_HALAI	TRINITY_DN154220_c0_g1_i2_5	2.46e-11	68	120	11	63
+# BLASTP 2.7.1+
+# Query: sp|P86725.1|UP6_HALAI RecName: Full=Uncharacterized protein 6; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86728.1|UP5_HALAI RecName: Full=Uncharacterized protein 5; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86736.1|DGRP_HALAI RecName: Full=Aspartate and glycine-rich protein
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86731.1|UP1_HALAI RecName: Full=Uncharacterized protein 1; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: sp|P86735.1|UP2_HALAI RecName: Full=Uncharacterized protein 2
+# Database: 95.2.50.mantle.protein.fasta
+# Fields: query acc., subject acc., evalue, q. start, q. end, s. start, s. end
+# 1 hits found
+sp|P86735.1|UP2_HALAI	TRINITY_DN102426_c0_g1_i1_2	9.61e-08	74	177	178	299
+# BLASTP 2.7.1+
+# Query: sp|P86732.1|GAAP_HALAI RecName: Full=Glycine, alanine and asparagine-rich protein; Flags: Precursor
+# Database: 95.2.50.mantle.protein.fasta
+# 0 hits found
+# BLAST processed 14 queries
